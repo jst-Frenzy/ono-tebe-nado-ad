@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 96px;
+  padding: 92px 50px 93px;
 }
 
 .header__links-list {
@@ -28,7 +28,7 @@
 
 .header__logo {
   display: block;
-  width: 148px;
+  width: 135px;
 }
 
 .address {
